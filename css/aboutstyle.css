@@ -22,3 +22,15 @@ body {
     left: 100px;
     overflow-wrap: normal;
 }
+
+.youtubelogo {
+    position: fixed;
+    top: 10px;
+    right:70px;
+}
+
+.twitterlogo {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
