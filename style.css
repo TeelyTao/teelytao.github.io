@@ -4,3 +4,15 @@ body {
     color: white;
     text-align: center;
 }
+
+.youtubelogo {
+    position: fixed;
+    top: 10px;
+    right:70px;
+}
+
+.twitterlogo {
+    position: fixed;
+    top: 10px;
+    right: 10px
+}
