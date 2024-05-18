@@ -19,7 +19,7 @@ body {
 .info {
     position: fixed;
     top: 60px;
-    left: 100px;
+    left: 20px;
     padding: 0px 100px;
     overflow-wrap: normal;
 }
