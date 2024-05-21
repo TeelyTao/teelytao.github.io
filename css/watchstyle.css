@@ -1,0 +1,47 @@
+body {
+    background-color: #5636cc;
+    font-family: Helvetica;
+    color: white;
+    text-align: center;
+}
+
+.homelink {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    color:white;
+}
+
+
+
+.onethumbnail {
+    position: fixed;
+    top: 120px;
+    left: 40%;
+}
+
+.twotitle {
+    position: fixed;
+    top: 250px;
+    left: 45%;
+    text-align: center;
+}
+
+.twothumbnail {
+    position: fixed;
+    top: 315px;
+    left: 40%;
+}
+
+.threetitle {
+    position: fixed;
+    top: 440px;
+    left: 45%;
+    text-align: center;
+}
+
+.threethumbnail {
+    position: fixed;
+    top: 505px;
+    left: 40%;
+}
