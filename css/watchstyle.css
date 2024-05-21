@@ -13,35 +13,39 @@ body {
 }
 
 
-
+.onetitle {
+    position: absolute;
+    top: 100px;
+    left: 100%;
+}
 .onethumbnail {
-    position: fixed;
+    position: absolute;
     top: 120px;
     left: 40%;
 }
 
 .twotitle {
-    position: fixed;
+    position: absolute;
     top: 250px;
-    left: 45%;
+    left: 30%;
     text-align: center;
 }
 
 .twothumbnail {
-    position: fixed;
+    position: absolute;
     top: 315px;
     left: 40%;
 }
 
 .threetitle {
-    position: fixed;
-    top: 440px;
-    left: 45%;
+    position: absolute;
+    top: 430px;
+    left: 30%;
     text-align: center;
 }
 
 .threethumbnail {
-    position: fixed;
+    position: absolute;
     top: 505px;
     left: 40%;
 }
