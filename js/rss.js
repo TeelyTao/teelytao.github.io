@@ -23,7 +23,6 @@ $.ajax({
 
   // Access response data here:
   var item = response.items[0];
-  console.log(item);
   onetitle.innerText = item.title;
   onelink.href = item.link;
   onethumbnail.src = item.thumbnail;
