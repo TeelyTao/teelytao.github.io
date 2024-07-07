@@ -1,0 +1,35 @@
+body {
+    background-color: #5636cc;
+    font-family: Helvetica;
+    color: white;
+}
+
+.homelink {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+    color: white;
+}
+
+.title {
+    text-align: center;
+}
+.desc {
+    position: absolute;
+    text-align: center;
+    top: 10%;
+    left: 23%
+}
+
+.youtubelogo {
+    position: fixed;
+    top: 10px;
+    right:70px;
+}
+
+.twitterlogo {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
